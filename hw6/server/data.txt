@@ -1,0 +1,6 @@
+book.png server_data/png/book.png
+reputation.png server_data/png/reputation.png
+book.bmp server_data/bmp/book.bmp
+reputation.bmp server_data/bmp/reputation.bmp
+book.jpg server_data/jpg/book.jpg
+reputation.jpg server_data/jpg/reputation.jpg
